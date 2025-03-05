@@ -39,4 +39,4 @@
     - Cast your rod
     
 # VIDEO TUTORIAL
-# [<img src="https://github.com/user-attachments/assets/db336dd6-e4a8-4c50-8467-3f8a7face7c5">](https://youtu.be/5aYuaOlvqIs&t=46s)
+# [<img src="https://github.com/user-attachments/assets/db336dd6-e4a8-4c50-8467-3f8a7face7c5">](https://www.youtube.com/watch?v=5aYuaOlvqIs&t=46s)
