@@ -5,16 +5,16 @@
 
 # INSTALLATION
 ## NORMAL EXE
-    - Download and install "RHS.Autofisher.exe" from the releases page
+    - Download and install "RHS-Autofisher.exe" from the releases page
     - Run the file
 ## FROM SOURCE
-    - Download and install "Source code (zip)" from the releases page
+    - Download and install "SOURCE.zip" from the releases page
     - Install the latest version of python from their website:
     
     https://www.python.org/downloads/
     
     - Run the "install.bat" file or go through requirements.txt and install each manually.
-	- Once finished, Delete the LICENSE, README.md, install.bat, and requirements.txt files
+	- Once finished, Delete the install.bat, and requirements.txt files
     - Run "RHS Autofisher.py"
 # TEXT TUTORIAL
     - (ON YOUR COMPUTER):
