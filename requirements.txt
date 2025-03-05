@@ -1,0 +1,10 @@
+pyautogui
+psutil
+pygetwindow
+pycaw
+comtypes
+numpy
+scipy
+sounddevice
+sv-ttk
+pywinstyles
