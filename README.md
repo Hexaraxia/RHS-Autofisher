@@ -16,10 +16,10 @@
     - Run the "install.bat" file or go through requirements.txt and install each manually.
 	- Once finished, Delete the install.bat, and requirements.txt files
     - Run "RHS Autofisher.py"
+
 # TEXT TUTORIAL
     - (ON YOUR COMPUTER):
-    - Download and install "RHS Autofisher.zip" from the releases page
-    - Extract the zip, DO NOT RUN THE EXE DIRECTLY INSIDE THE ZIP
+    - Download and run the program
     - Input a max volume the script should listen for. There is a preview to allow you to tune to your liking.
     - Run Roblox
     - Click start when you're ready.
@@ -32,7 +32,10 @@
     - (OPTIONAL) Turn off Boombox BGM (If you have other people macroing with you.)
     - Head to the fishing lake in the forest.
     - (RECOMMENDED) Stand in this corner of the lake and zoom your camera out like in the image below:
-    <img src="https://github.com/user-attachments/assets/a92d2eb7-29ae-4f7f-8a2f-b3395928e411">
+    
+<img src="https://github.com/user-attachments/assets/a92d2eb7-29ae-4f7f-8a2f-b3395928e411">
+
     - Click start on the program
+    
 # VIDEO TUTORIAL
 # [<img src="https://github.com/user-attachments/assets/db336dd6-e4a8-4c50-8467-3f8a7face7c5">](https://www.youtube.com/watch?v=hwFtkvmuDjA&t=108s)
