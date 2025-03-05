@@ -20,22 +20,23 @@
 # TEXT TUTORIAL
     - (ON YOUR COMPUTER):
     - Download and run the program
-    - Input a max volume the script should listen for. There is a preview to allow you to tune to your liking.
+    - Input a max volume the script should listen for. There is a preview to allow you to tune to your liking
     - Run Roblox
-    - Click start when you're ready.
+    - Click start when you're ready
       
     - (ON ROBLOX):
-    - Create a pivate server.
+    - Create a pivate server
     - Run Roblox
     - (OPTIONAL) Set the volume to something low. (This is to make the chances of the script hearing the campfire in the background or a shooting star less likely.)
     - Set the Background Music to 0%
     - (OPTIONAL) Turn off Boombox BGM (If you have other people macroing with you.)
-    - Head to the fishing lake in the forest.
+    - Head to the fishing lake in the forest
     - (RECOMMENDED) Stand in this corner of the lake and zoom your camera out like in the image below:
     
-<img src="https://github.com/user-attachments/assets/a92d2eb7-29ae-4f7f-8a2f-b3395928e411">
+<img src="https://github.com/user-attachments/assets/a92d2eb7-29ae-4f7f-8a2f-b3395928e411" width="750">
 
     - Click start on the program
+    - Cast your rod
     
 # VIDEO TUTORIAL
 # [<img src="https://github.com/user-attachments/assets/db336dd6-e4a8-4c50-8467-3f8a7face7c5">](https://www.youtube.com/watch?v=hwFtkvmuDjA&t=108s)
