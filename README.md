@@ -1,34 +1,38 @@
-# OLD README
-
 # [<img src="https://github.com/user-attachments/assets/3e564c2c-85af-42cf-99b2-98b82c4d1a0f">](https://www.youtube.com/watch?v=q_D44PAEWBU)
 
-# [DOWNLOAD PAGE](https://github.com/Hexaraxia/RHS-Autofisher/releases/tag/1.0) 
-### An AutoHotkey script that clicks twice when it detects a sound.
-Yes. the README has changed a bit from the video.
+# [DOWNLOAD PAGE](https://github.com/Hexaraxia/RHS-Autofisher/releases) 
+### A python program that clicks twice when it detects a sound.
 
-# TEXT TUTORIAL
-## .EXE
-    - Download and install "RHS Autofisher.exe" from the releases page
+# INSTALLATION
+## NORMAL EXE
+    - Download and install "RHS.Autofisher.exe" from the releases page
     - Run the file
-    - Input a max volume the script should listen for. 0.01 is recommended
-    - Go to the fishing lake
-    - Press F1 to start the script and cast your line
-    - Press F2 to stop the script at any time
-## .AHK
-    - Go to the "AutoHotkey" link bellow and download v1.1
-    - Download and install "RHS Autofisher.ahk" from the releases page
-    - Input a max volume the script should listen for. 0.01 is recommended
-    - Go to the fishing lake
-    - Press F1 to start the script and cast your line
-    - Press F2 to stop the script at any time
-[AutoHotkey](https://www.autohotkey.com/)
+## FROM SOURCE
+    - Download and install "Source code (zip)" from the releases page
+    - Install the latest version of python from their website:
+    
+    https://www.python.org/downloads/
+    
+    - Run the "install.bat" file or go through requirements.txt and install each manually.
+	- Once finished, Delete the LICENSE, README.md, install.bat, and requirements.txt files
+    - Run "RHS Autofisher.py"
+# TEXT TUTORIAL
+    - (ON YOUR COMPUTER):
+    - Download and install "RHS Autofisher.zip" from the releases page
+    - Extract the zip, DO NOT RUN THE EXE DIRECTLY INSIDE THE ZIP
+    - Input a max volume the script should listen for. There is a preview to allow you to tune to your liking.
+    - Run Roblox
+    - Click start when you're ready.
+      
+    - (ON ROBLOX):
+    - Create a pivate server.
+    - Run Roblox
+    - (OPTIONAL) Set the volume to something low. (This is to make the chances of the script hearing the campfire in the background or a shooting star less likely.)
+    - Set the Background Music to 0%
+    - (OPTIONAL) Turn off Boombox BGM (If you have other people macroing with you.)
+    - Head to the fishing lake in the forest.
+    - (RECOMMENDED) Stand in this corner of the lake and zoom your camera out like in the image below:
+    <img src="https://github.com/user-attachments/assets/a92d2eb7-29ae-4f7f-8a2f-b3395928e411">
+    - Click start on the program
 # VIDEO TUTORIAL
-# [<img src="https://github.com/user-attachments/assets/763d4f59-7700-47b6-9568-0ef480048b00">](https://www.youtube.com/watch?v=hwFtkvmuDjA&t=108s)
-
-# Credit:
-
- ["TAB Nation -  Automation"](https://www.youtube.com/watch?v=KxQELIyQTMk) - THE ORIGINAL CREATOR OF THE SCRIPT
-
- ["Lexikos"](https://www.autohotkey.com/board/topic/21984-vista-audio-control-functions/) - Creator of Vista Audio Control Functions:
-
- [AutoHotkey](https://www.autohotkey.com/)
+# [<img src="https://github.com/user-attachments/assets/db336dd6-e4a8-4c50-8467-3f8a7face7c5">](https://www.youtube.com/watch?v=hwFtkvmuDjA&t=108s)
